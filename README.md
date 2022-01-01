@@ -11,8 +11,8 @@ A aplicação consite em um sistema de cadastro de Pessoa/Aluno, onde pode ser r
 
 <div align="center">
   <img src="assets/toreadme/menuprincipal.png" height="350px">
-  <img src="assets/toreadme/cadastroaluno.png" height="350px">
-  <img src="assets/toreadme/tabelacadastros.png" height="350px">
+  <img src="assets/toreadme/cadastroaluno.png" height="30px">
+  <img src="assets/toreadme/tabelacadastros.png" height="300px">
 </div>
 
 # Autor
