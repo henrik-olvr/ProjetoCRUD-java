@@ -10,7 +10,7 @@ A aplicação consite em um sistema de cadastro de Pessoa/Aluno, onde pode ser r
 ## Algumas Screenshots do Sistema
 
 <div align="center">
-  <img src="assets/toreadme/menuprincipal.png" height="350px">
+  <img src="assets/toreadme/menuprincipal.png" height="300px">
   <img src="assets/toreadme/cadastroaluno.png" height="300px">
   <img src="assets/toreadme/tabelacadastros.png" height="300px">
 </div>
